@@ -5,3 +5,4 @@
 3. [D3. 设计一个高并发的CMS](https://github.com/vincenting/note/issues/3)
 4. [D4. 用 Ruby 快速开发一个图片服务全过程](https://github.com/vincenting/note/issues/4)
 5. [D5. 使用 Nginx 优化面向侧面的架构](https://github.com/vincenting/note/issues/5)
+6. [岳父你快回来吧](https://github.com/vincenting/note/edit/master/README.md) 
